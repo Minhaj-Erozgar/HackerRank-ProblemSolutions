@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+#### Name: [Minhaj Ul Abidin](https://github.com/Minhaj-Erozgar)
+
+- Place: Spring Valley, Islamabad, Pakistan
+- Bio: GitHub Campus Expert | Microsoft Learn Student Ambassador | Data Engineer
+- GitHub: [Minhaj-Erozgar](https://github.com/Minhaj-Erozgar)
